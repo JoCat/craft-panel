@@ -1,0 +1,22 @@
+{
+  "name": "craft-panel",
+  "version": "0.1.0",
+  "description": "Личный кабинет с интеграцией в Gravit Launcher",
+  "author": "Andrew Molchanov <mr.catmanrus@gmail.com> (https://jocat.ru/)",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0",
+    "cookie-universal-nuxt": "^2.1.4",
+    "gravit-api": "^1.1.0-rc2",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
