@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">CraftPanel</h1>
-      <h2 class="subtitle">Личный кабинет с интеграцией в Gravit Launcher</h2>
+      <h2 class="subtitle">Личный кабинет с интеграцией в Aurora Launcher</h2>
       <div class="links">
         <b-button variant="outline-primary" to="/cabinet">Войти</b-button>
       </div>

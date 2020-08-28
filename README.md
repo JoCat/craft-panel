@@ -1,6 +1,6 @@
-# frontend
+# CraftPanel
 
-> My solid Nuxt.js project
+> Личный кабинет с интеграцией в Aurora Launcher
 
 ## Build Setup
 

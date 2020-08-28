@@ -1,7 +1,7 @@
 {
   "name": "craft-panel",
   "version": "0.1.0",
-  "description": "Личный кабинет с интеграцией в Gravit Launcher",
+  "description": "Личный кабинет с интеграцией в Aurora Launcher",
   "author": "Andrew Molchanov <mr.catmanrus@gmail.com> (https://jocat.ru/)",
   "private": true,
   "scripts": {
